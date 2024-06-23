@@ -1,0 +1,15 @@
+ipython==8.12.3
+keras==3.3.3
+librosa==0.10.2.post1
+matplotlib==3.9.0
+numpy==2.0.0
+pandas==2.2.2
+pydub==0.25.1
+scikit_learn==1.5.0
+scipy==1.13.1
+seaborn==0.13.2
+skimage==0.0
+soundfile==0.12.1
+tensorflow==2.16.1
+tqdm==4.65.0
+visualkeras==0.0.2
